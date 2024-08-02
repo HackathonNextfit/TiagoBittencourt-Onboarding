@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackHackathon.Api", "BackHackathon.Api\BackHackathon.Api.csproj", "{8D397F8E-291F-4F9F-B584-D55AA7086F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackHackathon.Application", "BackHackathon.Application\BackHackathon.Application.csproj", "{69352476-1C71-45A6-977A-8EE16EC87F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackHackathon.Domain", "BackHackathon.Domain\BackHackathon.Domain.csproj", "{370C6242-4F7E-4C8A-B63D-969EB0EFC65F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D397F8E-291F-4F9F-B584-D55AA7086F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D397F8E-291F-4F9F-B584-D55AA7086F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D397F8E-291F-4F9F-B584-D55AA7086F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D397F8E-291F-4F9F-B584-D55AA7086F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69352476-1C71-45A6-977A-8EE16EC87F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69352476-1C71-45A6-977A-8EE16EC87F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69352476-1C71-45A6-977A-8EE16EC87F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69352476-1C71-45A6-977A-8EE16EC87F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{370C6242-4F7E-4C8A-B63D-969EB0EFC65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370C6242-4F7E-4C8A-B63D-969EB0EFC65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370C6242-4F7E-4C8A-B63D-969EB0EFC65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370C6242-4F7E-4C8A-B63D-969EB0EFC65F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
